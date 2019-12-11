@@ -13,7 +13,9 @@
 - Javascript
 - Linux Bash
 - Dart
- 
+- C
+- C++
+- C#
  **Languages that are _hidden_ on the form for a reason:**
 *We didn't forget these languages. We just don't use them on the form.*
 
