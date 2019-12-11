@@ -6,4 +6,4 @@ If you have problems clicking this link, just copy-paste the following line into
 [`https://software0810.wordpress.com/join-0810-software/`](https://software0810.wordpress.com/join-0810-software/)
 
 ## Contributions
-To propose a change to the form, you can create an issue on this repository.
+To propose a change to the form, you can create an issue on this repository or edit one of the data lists on this repository.
