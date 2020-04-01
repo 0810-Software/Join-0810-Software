@@ -7,6 +7,7 @@
 - PHP 7
 - HTML 4
 - HTML 5
+- CSS
 - MSHTA
 - Python 3
 - CMD/Batch
